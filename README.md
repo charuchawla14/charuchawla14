@@ -19,7 +19,7 @@ I have hands-on experience in:
 
 * Programming: Python
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-* Data Analysis: EDA, Data Cleaning, Data Visualization
+* Data Analysis: EDA, Data Cleaning, Data Visualization, Feature Engineering
 * Tools:Jupyter Notebook, VS Code, Tableau, Power BI, Excel
 * Concepts: Machine Learning, Predictive Modeling , Classification , Regression , Clustering , Statistical Analysis 
 
