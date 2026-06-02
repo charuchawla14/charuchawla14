@@ -23,11 +23,6 @@ I have hands-on experience in:
 * Tools:Jupyter Notebook, VS Code, Tableau, Power BI, Excel
 * Concepts: Machine Learning, Predictive Modeling , Classification , Regression , Clustering , Statistical Analysis 
 
-## 📌 Projects
-
-* 📊 Blinkit Sales Analysis Dashboard (Power BI)
-* 📈 Stock Price Prediction using LSTM
-* 🔍 Exploratory Data Analysis Projects
 
 ## 📫 Connect With Me
 
